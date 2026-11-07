@@ -1,0 +1,178 @@
+body {
+    background-color: #eddebb; 
+    font-family: 'Fredoka', 'Titan One', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    color: #B76208; 
+    font-size: 10rem;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+.ita {
+    color: #42270A; 
+    font-size: 2rem;
+    text-align: center;
+    padding: 40px 0; 
+}
+
+.waffle{
+  font-size: 1.5rem;
+  background: #f04545;
+  border-radius: 2px;
+  color: #331d07; 
+  font-family: "Tiny5 Duo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "BLED" 0,
+    "JITT" 0,
+    "ROND" 0;
+}
+
+.div3 {
+    padding: 30px;
+}
+
+.history {
+    height: 220px;
+    width: 550px;
+    border: 2px solid #5a1515;
+    border-radius: 10px;
+    background-color: #b89a70;
+}
+.waffle2{
+  font-size: 2rem;
+  color: #5a3815; 
+  font-family: "Tiny5 Duo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "BLED" 0,
+    "JITT" 0,
+    "ROND" 0;
+}
+.waffle3{
+  font-size: 5rem;
+  color: #5a3815; 
+  font-family: "Tiny5 Duo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "BLED" 0,
+    "JITT" 0,
+    "ROND" 0;
+}
+.p{
+    font-size: 1.2rem;
+}
+
+#waffleimg {
+    border-radius: 10px;
+    height: 500px;
+    width: 450px;
+
+
+}
+#waffle2img {
+    border-radius: 10px;
+    height: 500px;
+    width: 450px;
+
+}
+
+.cent{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    height: 800px;
+    width: 450px;
+    border:#331d07 2px solid;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: #725231;   
+}
+.right{
+    height: 800px;
+    width: 450px;
+    border:#331d07 2px solid;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: #B76208;
+}
+
+.para1 {
+    font-size: 1.2rem;
+    padding: 20px;
+  color: #997d63; 
+  font-family: "Tiny5 Duo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "BLED" 0,
+    "JITT" 0,
+    "ROND" 0;
+}
+.recipe {
+    color: #331d07; 
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.ingredients {
+    list-style-type: none;
+
+    font-size: 1.2rem;
+    color: #331d07; 
+    font-family: "Tiny5 Duo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "BLED" 0,
+        "JITT" 0,
+        "ROND" 0;
+    text-decoration: none;
+}
+
+.im {
+    font-size: 1rem;
+    color: #9b6c3e; 
+    font-family: "Tiny5 Duo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "BLED" 0,
+        "JITT" 0,
+        "ROND" 0;
+    text-decoration: none;
+}
+#Inwaffleimg {
+    border-radius: 10px;
+    height: 600px;
+    width: 550px;
+    margin-top: 30px;
+}
+.instructions {
+    font-size: 1.5rem;
+    list-style-type: none;
+}
